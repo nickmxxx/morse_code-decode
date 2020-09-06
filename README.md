@@ -6,3 +6,4 @@
 
 Matlab app to show the GUI interface, and achieve input characters and listen to music (specified file or ambient sound) to identify the tick sound and translate it
 
+![picture](https://raw.githubusercontent.com/nickmxxx/morse_code-decode/master/morse_code.png)
